@@ -1,22 +1,32 @@
 # COS 201 - Computer Programming I
 
-## Week 1 Practical Exercises
+## Practical Title
+Development Environment and First Java Program
 
-### Student Information
-- Programme: Software Engineering
-- Course Code: COS 201
+## Objective
+To configure the Java development environment ,Write a simple Java program, complile it,execute it and submit the source code through GitHub.
 
-### Practical Work
-This repository contains my Week 1 practical exercises in Java programming.
+## Programme
+ Software Engineering
 
-### Activities Completed
-1. Created my first Java programme.
-2. Compiled and executed the programme.
-3. Modified the programme using additional output statements.
-4. Practised basic Java syntax and problem-solving.
+## Week
+02
 
-### File Structure
-- week01/FirstProgram.java
+## Tools Used
+-Java Development Kit (JDK)
+-Visual Studio Code
+-Git
+-GitHub Desktop
+-GitHub
 
-### Learning Goal
-My goal is to develop strong programming skills and learn how to build useful software applications.
+## Files
+- 'week02/HelloWord.java' : Java
+source code for the practical. 
+     
+## How to Run
+1. open a terminal in the 'week02' directory.
+2. Complile using 'javac HelloWord.java'.
+3. Run using 'java HelloWord'.
+
+## Learning Outcome
+I Practised creating, compiling and running a Java program and submitting source code through GitHub.
