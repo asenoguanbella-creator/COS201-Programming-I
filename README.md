@@ -1,32 +1,32 @@
-# COS 201 - Computer Programming I
+# COS 201 – Computer Programming I
 
-## Practical Title
-Development Environment and First Java Program
+**Name:** Asenoguan Bella Aisosa  
+**Programme:** Software Engineering
 
-## Objective
-To configure the Java development environment ,Write a simple Java program, complile it,execute it and submit the source code through GitHub.
+## Week 01 – First Java Program
+- Created and executed my first Java program.
+- Practised basic output statements using System.out.println().
 
-## Programme
- Software Engineering
+## Week 02 – Hello World Program
+- Created HelloWorld.java.
+- Practised writing, compiling and executing Java programs.
 
-## Week
-02
+## Week 03 – Java Practical Programs
+
+### 1. SimpleCalculator.java
+Performs addition, subtraction, multiplication and division.
+
+### 2. AverageCalculator.java
+Accepts a student's name and three scores, then calculates the total and average.
+
+### 3. ItemCost.java
+Accepts an item name, quantity and unit price, then calculates the total cost.
 
 ## Tools Used
--Java Development Kit (JDK)
--Visual Studio Code
--Git
--GitHub Desktop
--GitHub
+- Java JDK
+- Visual Studio Code
+- GitHub Desktop
+- GitHub
 
-## Files
-- 'week02/HelloWord.java' : Java
-source code for the practical. 
-     
-## How to Run
-1. open a terminal in the 'week02' directory.
-2. Complile using 'javac HelloWord.java'.
-3. Run using 'java HelloWord'.
-
-## Learning Outcome
-I Practised creating, compiling and running a Java program and submitting source code through GitHub.
+## Conclusion
+Completed practical exercises in Java programming and successfully uploaded the work to GitHub.
